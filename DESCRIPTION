@@ -19,5 +19,6 @@ Imports:
     dplyr,
     readr,
     stringr,
-    tidyr
+    tidyr,
+    tibble
 RoxygenNote: 7.3.3
